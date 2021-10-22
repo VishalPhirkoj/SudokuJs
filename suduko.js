@@ -31,7 +31,7 @@ return false;
 return true;
 }
 
-//Visualizing the board data
+//Visualizing the board data sudoku
   function sudokusolver(data) {
       for (let i = 0; i < 9; i++) {
       for (let j = 0; j < 9; j++) {
