@@ -1,3 +1,4 @@
+// this is suduko board
 var board = [
   [0, 0, 0, 2, 6, 0, 7, 0, 1],
   [6, 8, 0, 0, 7, 0, 0, 9, 0],
