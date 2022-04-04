@@ -56,6 +56,7 @@ function sudoku(board) {
             }
           } else {
             emptySpaces++;
+            //this is incrases emptry spaces
           }
         }
       }
